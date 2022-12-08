@@ -29,3 +29,5 @@ $ node xxxxx.js
 | [index_05](/src/section2/index_05.ts) | Tuple 型の利用                   |
 | [index_06](/src/section2/index_06.ts) | Enum 型の利用                    |
 | [index_07](/src/section2/index_07.ts) | Union 型の利用                   |
+| [index_08](/src/section2/index_08.ts) | Alias の利用                     |
+| [index_09](/src/section2/index_09.ts) | Function 型の利用                |
