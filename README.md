@@ -31,3 +31,11 @@ $ node xxxxx.js
 | [index_07](/src/section2/index_07.ts) | Union 型の利用                   |
 | [index_08](/src/section2/index_08.ts) | Alias の利用                     |
 | [index_09](/src/section2/index_09.ts) | Function 型の利用                |
+
+### クラス、インターフェース
+
+| 概要                                  | 説明                                 |
+| ------------------------------------- | ------------------------------------ |
+| [index_01](/src/section4/index_01.ts) | クラスの利用、private/public 修飾子  |
+| [index_02](/src/section4/index_02.ts) | プロパティ初期化のショートカット構文 |
+| [index_03](/src/section4/index_03.ts) | 継承                                 |
