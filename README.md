@@ -44,3 +44,9 @@ $ node xxxxx.js
 | [index_06](/src/section4/index_06.ts) | Interface                                |
 | [index_07](/src/section4/index_07.ts) | クラスで Interface 利用                  |
 | [index_08](/src/section4/index_08.ts) | Interface の継承                         |
+
+### 高度な型
+
+| 概要                                  | 説明   |
+| ------------------------------------- | ------ |
+| [index_01](/src/section5/index_01.ts) | 交差型 |
