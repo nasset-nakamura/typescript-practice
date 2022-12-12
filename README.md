@@ -47,6 +47,9 @@ $ node xxxxx.js
 
 ### 高度な型
 
-| 概要                                  | 説明   |
-| ------------------------------------- | ------ |
-| [index_01](/src/section5/index_01.ts) | 交差型 |
+| 概要                                  | 説明                     |
+| ------------------------------------- | ------------------------ |
+| [index_01](/src/section5/index_01.ts) | 交差型(type を利用)      |
+| [index_02](/src/section5/index_02.ts) | 交差型(interface を利用) |
+| [index_03](/src/section5/index_03.ts) | 型ガード                 |
+| [index_04](/src/section5/index_04.ts) | 判別可能な Union 型      |

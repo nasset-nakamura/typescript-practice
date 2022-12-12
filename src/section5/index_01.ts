@@ -18,3 +18,14 @@ const el: ElevatedEmployee = {
 };
 
 console.log({ el });
+
+type Cominable = string | number;
+type Numeric = number | boolean;
+type Universal = Cominable & Numeric;
+
+const test1: Universal = 123;
+const test2: Universal = '123';
+const test3: Universal = true;
+console.log(test1);
+console.log(test2);
+console.log(test3);
