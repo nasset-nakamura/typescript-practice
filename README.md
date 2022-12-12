@@ -53,3 +53,7 @@ $ node xxxxx.js
 | [index_02](/src/section5/index_02.ts) | 交差型(interface を利用) |
 | [index_03](/src/section5/index_03.ts) | 型ガード                 |
 | [index_04](/src/section5/index_04.ts) | 判別可能な Union 型      |
+| [index_05](/src/section5/index_05.ts) | インデックス 型          |
+| [index_06](/src/section5/index_06.ts) | 関数オーバーロード       |
+| [index_07](/src/section5/index_07.ts) | オプショナルチェーン     |
+| [index_08](/src/section5/index_08.ts) | NULL 合体演算子          |
