@@ -68,3 +68,12 @@ $ node xxxxx.js
 | [index_04](/src/section6/index_04.ts) | keyof 制約                                    |
 | [index_05](/src/section6/index_05.ts) | Generic クラス                                |
 | [index_06](/src/section6/index_06.ts) | Generic 型のユーティリティ(Partial、Readonly) |
+
+### デコレータ
+
+| 概要                                  | 説明                                             |
+| ------------------------------------- | ------------------------------------------------ |
+| [index_01](/src/section7/index_01.ts) | Class デコレータ                                 |
+| [index_02](/src/section7/index_02.ts) | デコレータファクトリ                             |
+| [index_03](/src/section7/index_03.ts) | デコレータの実行順序                             |
+| [index_04](/src/section7/index_04.ts) | Property・Accessor・Method・Parameter デコレータ |
